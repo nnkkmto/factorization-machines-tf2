@@ -1,6 +1,6 @@
 # factorization-machines-tf2
 
-[factorization machines](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf) の tensorflow2.x による実装 
+[Factorization Machines](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf) の tensorflow2.x による実装 
 
 # Usage
 
